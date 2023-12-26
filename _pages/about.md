@@ -14,7 +14,7 @@ I'm part of the [Data Systems Group (DSG) Lab](https://uwaterloo.ca/data-systems
 
 ## Research Interests
 
-My research interests lie in Databases, specifically on Graph Data Management & Query Processing for Graph Databases.
+My research interests lie in Databases, specifically on Graph Data Management & Query Processing for Graph Databases.  
 As part of my Masters Thesis, I have been working on query processing for Recursive Joins in GDBMS (Graph DBMS) systems.
 
 Contact: a8chakra dot uwaterloo dot ca

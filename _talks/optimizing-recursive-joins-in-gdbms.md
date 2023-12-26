@@ -8,4 +8,4 @@ date: 2023-12-13
 location: "Hamilton, Ontario, Canada"
 ---
 
-I gave a talk at ONDB 2023 on how to optimize recursive joins in graph database systems.
+I gave a talk at [ONDB 2023](https://ondbd.ca/) on how to optimize recursive joins in graph database systems.

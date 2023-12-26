@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi !  
-Welcome to my page, I'm a Masters CS (Thesis) student at the [David R. Cheriton School of Computer Science, UWaterloo](https://cs.uwaterloo.ca/).  
+Welcome to my page, I'm a Masters student at the [David R. Cheriton School of Computer Science, UWaterloo](https://cs.uwaterloo.ca/).  
 I'm part of the [Data Systems Group (DSG) Lab](https://uwaterloo.ca/data-systems-group/), advised by Prof. [Semih Salihoğlu](https://cs.uwaterloo.ca/~ssalihog/).  
 
 ## Research Interests

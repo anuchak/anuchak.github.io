@@ -21,6 +21,6 @@ As part of my Masters Thesis, I have been working on query processing for Recurs
 
 Prior to this, I worked as a Software Engineer for 2 years at Goldman Sachs.
 
-Contact: a8chakra dot uwaterloo dot ca
+Contact: a8chakra [at] uwaterloo [dot] ca
 
 

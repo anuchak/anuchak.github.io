@@ -8,4 +8,4 @@ date: 2023-12-13
 location: "Hamilton, Ontario, Canada"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+I gave a talk at ONDB 2023 on how to optimize recursive joins in graph database systems.

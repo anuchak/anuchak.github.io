@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Anurag Chakraborty"
   avatar           : "profile.png"
-  bio              : "Masters student in CS @UWaterloo, working on Graph Databases"
+  bio              : "Masters CS student @UWaterloo, working on Databases"
   location         : "Waterloo, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=gap7geMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/anu7ag"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "MisguidedEip"
   vine             :
   weibo            :
   xing             :
@@ -208,7 +208,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: trueGraph
   # _teaching
   - scope:
       path: ""

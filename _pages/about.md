@@ -14,11 +14,13 @@ I'm part of the [Data Systems Group (DSG) Lab](https://uwaterloo.ca/data-systems
 
 ## Research Interests
 
-My research interests lie in Databases, specifically on Graph Data Management & Query Processing for Graph Databases.  
-As part of my Masters Thesis, I have been working on query processing for Recursive Joins in GDBMS (Graph DBMS) systems.
+- Databases
+- Graph Data Management
+
+As part of my Masters Thesis, I have been working on query processing for Recursive Joins (such as shortest path & variable length path queries) in GDBMS (Graph DBMS) systems and how to make them more efficient. I primarily use [Kùzu](https://kuzudb.com/) for my research which is a new graph database being built at UWaterloo. 
+
+Prior to this, I worked as a Software Engineer for 2 years at Goldman Sachs.
 
 Contact: a8chakra dot uwaterloo dot ca
-
-
 
 

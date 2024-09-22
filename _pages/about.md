@@ -19,7 +19,9 @@ Prior to this, I worked as a Software Engineer for 2 years at Goldman Sachs.
 - Databases
 - Graph Data Management
 
-As part of my Masters Thesis, I have been working on query processing for Recursive Joins (such as shortest path & variable length path queries) in GDBMS (Graph DBMS) systems and how to make them more efficient. I primarily use [Kùzu](https://kuzudb.com/) for my research which is a new graph database being built at UWaterloo. 
+I'm currently involved with [Kùzu](https://github.com/kuzudb/kuzu) a new graph database (GDBMS) for analytical workloads.
+Kùzu is a single node disk-based columnar GDBMS with support for processing larger than memory datasets, a vectorized query
+execution engine and MVCC for transactions. 
 
 Contact: a8chakra [at] uwaterloo [dot] ca
 

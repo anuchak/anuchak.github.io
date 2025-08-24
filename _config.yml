@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anurag Chakraborty"
 title_separator          : "-"
 name                     : &name "Anurag Chakraborty"
-description              : &description "Masters CS student at University of Waterloo"
+description              : &description "PhD CS student at University of Waterloo"
 url                      : https://anuchak.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anuchak.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anurag Chakraborty"
   avatar           : "profile_picture.jpeg"
-  bio              : "Masters CS student @UWaterloo, working on Databases"
+  bio              : "PhD CS @UWaterloo, working on Databases"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

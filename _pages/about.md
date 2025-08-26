@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi ! Welcome to my page.   
-I'm a 2nd year PhD student at the [David R. Cheriton School of Computer Science, University of Waterloo](https://cs.uwaterloo.ca/). I'm part of the [Data Systems Group (DSG) Lab](https://uwaterloo.ca/data-systems-group/), advised by Prof. [Semih Salihoğlu](https://cs.uwaterloo.ca/~ssalihog/).  
-
-I was a Research Intern at the [Microsoft Gray Systems Lab](https://www.microsoft.com/en-us/research/group/gray-systems-lab/) where I worked with [Yuanyuan Tian](https://humming80.github.io/) and [Kevin Gaffney](https://kpgaffney.com/).
-
-I completed my Master’s Thesis (MMath CS), also from the University of Waterloo.
-Prior to this, I worked as a Software Engineer for 2 years at Goldman Sachs.
+Hi! Welcome to my page.   
+I'm a 2nd year PhD student in Computer Science at the University of Waterloo. I'm part of the [Data Systems Group (DSG) Lab](https://uwaterloo.ca/data-systems-group/), advised by Prof. [Semih Salihoğlu](https://cs.uwaterloo.ca/~ssalihog/).   
+During my PhD, I was a Research Intern at the [Microsoft Gray Systems Lab](https://www.microsoft.com/en-us/research/group/gray-systems-lab/) where I worked with [Yuanyuan Tian](https://humming80.github.io/) and [Kevin Gaffney](https://kpgaffney.com/).   
+Prior to this, I completed my Master’s Thesis (MMath CS), also from the University of Waterloo.   
 
 ## Research Interests
 

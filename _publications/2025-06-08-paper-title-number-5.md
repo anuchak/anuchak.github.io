@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/robust-recursive-query-parallelism-in-gdbms
 excerpt: 'This paper is about implementing runtime scheduling policies for recursive queries in GDBMSs'
 date: 2025-09-04
-venue: 'Proceedings of the VLDB Endowment (PVLDB), 2025'
+venue: 'Proceedings of the VLDB Endowment (PVLDB), Volume 18, Issue 11'
 paperurl: 'https://dl.acm.org/doi/pdf/10.14778/3749646.3749706'
 ---
 

@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/challenges-in-relational-dbms-for-llm-queries
 excerpt: 'This paper is a survey of open source Relational LLM query engines'
 date: 2025-09-01
-venue: 'AIDB Workshop @VLDB 25'
+venue: 'AIDB Workshop @VLDB'
 paperurl: 'https://arxiv.org/pdf/2508.20912?'
 ---
 
